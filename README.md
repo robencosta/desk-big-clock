@@ -8,3 +8,4 @@ Simple clock to use in desktop mode. It Supports themes and many time formats.
 * Java Swing
 * Maven
 * JUnit and Mockito for tests
+* Travis CI
